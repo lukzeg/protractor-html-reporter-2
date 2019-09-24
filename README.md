@@ -65,8 +65,12 @@ How to use
     new HTMLReport().from('xmlresults.xml', testConfig);
     ```
 
-    ###Info
+    ---
+    
+    #### Info
     appVersion - additional attribute. If appVersion option is set, this information it will be displayed under *Environment* section. In other way, it will be not mentioned under *Environment* section
+
+    ---
 
 * Using with protractor conf.js file
 
